@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.background {
+    background: linear-gradient(to bottom right, blue, purple);
+    height: 100vh;
+}
+
+.white {
+    padding: 20px 20px;
+
+}
+
+.white1 {
+    height: 400px;
+    width: 20%;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+
+.Login {
+    height: 80px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    border-bottom: 1px solid black;
+    border-color: grey;
+}
+
+.name {
+    width: 70%;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    border-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: start;
+    margin-left: 40px;
+}
+
+#password {
+    width: 70%;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    border-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: start;
+    margin-left: 40px;
+
+
+}
+
+.fg {
+    text-decoration: none;
+    color: grey;
+    margin-left: 40px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Login1 {
+    width: 75%;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(62, 62, 188);
+    padding: 10px 10px;
+    border-radius: 20px;
+    margin-left: 35px;
+    text-align: center;
+    margin-top: 20px;
+    border: none;
+}
+
+.signup {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+border: none;
+background-color: rgb(255, 255, 255);
+color: rgb(93, 93, 232);
+padding-right: 10px;
+}
+
+.signup2 {
+    margin-left: 75px;
+}
+
+.signup2:active {
+    color: blue;
+}
